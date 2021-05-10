@@ -5,9 +5,12 @@ Here is the link for the original data set from Kaggle: https://www.kaggle.com/h
 
 The above link is the full raw data, the file is too big to be uploaded to Github, so I only used the Team Attributes CSV file in my raw data. For future use, download the full data set.
 
+License will be in separate license.txt file
+
+In order to contribute, please contact owner of the repository
+
 ## Sample Citation:
 
 Garg, N. (2021). The Rise of Possession Football, University of Illinois Urbana-Champaign, Illinois.
 
-License will be in separate license.txt file
 
