@@ -12,6 +12,12 @@ uploaded = files.upload()
 
 """#Count number of teams that have characteristics of high possession teams, grouped by date
 
+Since the original data set, found in the README, is too large to be on Github, I extracted the Team_Attributes CSV file for the raw data. This SQLite query can be used to extract that CSV for further examination.
+
+```SQL
+select * from Team_Attributes
+```
+
 This is the SQLite query I used to get the number of teams that played with the characteristics of high possession teams, grouped by year, from 2010 to 2015. You would use this with the raw database file in the Code folder in order to properly extract the same processed data set included in the project folder.
 
 ```SQL
